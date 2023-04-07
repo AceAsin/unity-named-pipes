@@ -33,7 +33,7 @@ artifacts:
   name: Unity Package
 - path: artifacts/NativeNamedPipe.so
   name: Unix Wrapper
-- path: artifacts/NativeNamedPipe.dylib
+- path: artifacts/NativeNamedPipe.bundle
   name: Mac Wrapper
 - path: artifacts/NativeNamedPipe.dll
   name: Windows Wrapper
